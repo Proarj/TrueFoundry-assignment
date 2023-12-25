@@ -71,3 +71,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## To run the web-app
+1. install streamlit using pip install streamlit
+2. streamlit run project-webapp.py
